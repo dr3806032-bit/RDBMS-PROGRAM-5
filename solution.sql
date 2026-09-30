@@ -4,7 +4,7 @@
 
 USE CollegeDB;
 
--- Insert student records
+- Insert student records
 INSERT INTO Student
     (StudentID, StudentName, Gender, DepartmentID)
 VALUES
